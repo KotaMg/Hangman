@@ -1,3 +1,2 @@
 # Hangman
-Hangman game in C#
-test
+Hangman console game in C#
